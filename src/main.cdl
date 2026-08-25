@@ -1,0 +1,7 @@
+import "lumen.cdl";
+
+fn on_start() {
+    lumen::print("hello from lumen");
+}
+
+fn main() {}

@@ -1,0 +1,6 @@
+[app]
+entry = "main.lmn"
+
+[window]
+title = "Hello"
+size = [640, 360]
